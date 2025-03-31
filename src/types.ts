@@ -1,7 +1,6 @@
 import type { SentMessageInfo } from 'nodemailer'
 import type { Attachment } from 'nodemailer/lib/mailer'
 import type { Options as SMTPOptions } from 'nodemailer/lib/smtp-transport'
-import type { SESClientConfig } from '@aws-sdk/client-ses'
 
 // Opciones de configuración del módulo que irán en nuxt.config.ts -> runtimeConfig.sender
 export interface ModuleOptions {
@@ -50,11 +49,6 @@ export interface ModuleOptions {
      * Número máximo de conexiones simultáneas.
      */
     maxConnections?: number
-
-    /**
-     * Configuración adicional específica para el cliente SES v3.
-     */
-    sesClientConfig?: SESClientConfig
   }
 
   /**

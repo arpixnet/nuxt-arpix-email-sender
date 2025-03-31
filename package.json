@@ -2,7 +2,10 @@
   "name": "nuxt-arpix-email-sender",
   "version": "1.0.0",
   "description": "My new Nuxt module",
-  "repository": "your-org/nuxt-arpix-email-sender",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arpixnet/nuxt-arpix-email-sender.git"
+  },
   "license": "MIT",
   "type": "module",
   "exports": {

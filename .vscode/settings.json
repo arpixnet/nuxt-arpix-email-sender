@@ -1,0 +1,7 @@
+{
+  "eslint.experimental.useFlatConfig": true,
+  "nuxt.isNuxtApp": false,
+  "cSpell.words": [
+    "nuxt"
+  ]
+}

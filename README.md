@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/nuxt-arpix-email-sender/latest.svg?style=flat&colorA=020420&colorB=00DC82)](https://npmjs.com/package/nuxt-arpix-email-sender)
 [![npm downloads](https://img.shields.io/npm/dm/nuxt-arpix-email-sender.svg?style=flat&colorA=020420&colorB=00DC82)](https://npm.chart.dev/nuxt-arpix-email-sender)
-[![License](https://img.shields.io/npm/l/nuxt-arpix-email-sender.svg?style=flat&colorA=020420&colorB=00DC82)](https://npmjs.com/package/nuxt-arpix-email-sender)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Nuxt](https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js)](https://nuxt.com)
 
 A Nuxt module for sending emails using various transport methods with Handlebars template support.

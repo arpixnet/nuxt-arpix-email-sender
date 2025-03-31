@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/arpixnet/nuxt-arpix-email-sender.git"
   },
-  "license": "MIT",
+  "license": "GPL-3.0 license",
   "type": "module",
   "exports": {
     ".": {
